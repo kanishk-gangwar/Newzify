@@ -25,13 +25,10 @@ This is a modern Android news application built using **Jetpack Compose**, **Kto
 
 ## 📸 App Preview
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-
-  <img src="https://github.com/user-attachments/assets/1603943f-427d-48b6-be5e-7153f7b2191e" alt="Home Screen" width="200"/>
-
-  <img src="https://github.com/user-attachments/assets/004749e5-17bb-455d-83a0-728bbd9673fb" alt="Article View" width="200"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1603943f-427d-48b6-be5e-7153f7b2191e" alt="Home Screen" width="200" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/004749e5-17bb-455d-83a0-728bbd9673fb" alt="Article View" width="200" />
+</p>
 
 
 > The screen shows the news title, publication date, description, and a "Read More..." link for full article access.
