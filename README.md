@@ -37,7 +37,7 @@ This is a modern Android news application built using **Jetpack Compose**, **Kto
 
 ## 📦 APK Download
 
-You can download the latest APK from the [Releases Section].
+You can download the latest APK from the [Releases Section](https://github.com/kanishk-gangwar/Newzify/releases/tag/Newzify1.0).
 
 ---
 
