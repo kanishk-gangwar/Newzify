@@ -25,13 +25,13 @@ This is a modern Android news application built using **Jetpack Compose**, **Kto
 
 ## 📸 App Preview
 
-| 📰 Home Screen |
-|------------------------|
-| ![News Detail](https://github.com/user-attachments/assets/1603943f-427d-48b6-be5e-7153f7b2191e) |
+<div style="display: flex; justify-content: center; gap: 20px;">
 
-| Article View |
-|--------------|
-| ![News Detail](https://github.com/user-attachments/assets/004749e5-17bb-455d-83a0-728bbd9673fb) |
+  <img src="https://github.com/user-attachments/assets/1603943f-427d-48b6-be5e-7153f7b2191e" alt="Home Screen" width="200"/>
+
+  <img src="https://github.com/user-attachments/assets/004749e5-17bb-455d-83a0-728bbd9673fb" alt="Article View" width="200"/>
+
+</div>
 
 
 > The screen shows the news title, publication date, description, and a "Read More..." link for full article access.
@@ -59,4 +59,4 @@ You can download the latest APK from the [Releases Section].
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/kanishk-gangwar/Newzify.git
